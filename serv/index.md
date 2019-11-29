@@ -1,3 +1,6 @@
+---
+layout: origin
+---
 # Oops! That 's an error!
 
 您似乎进入了游客的禁区......
