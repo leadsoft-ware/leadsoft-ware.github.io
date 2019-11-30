@@ -5,5 +5,5 @@ layout: origin
 
 [Hello World](helloworld)<br>
 [About](about)<br>
-[Lead-OS kernel 4 are released!](kernl4)
-[Lead-OS Insider Preview](insider)
+[Lead-OS kernel 4 are released!](kernl4)<br>
+[Lead-OS Insider Preview](insider)<br>
