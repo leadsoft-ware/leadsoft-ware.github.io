@@ -11,7 +11,7 @@ layout: origin
 ### Lead-OS 更新
 <em>请通过以下命令来更新系统</em><br>
 
-'''
+```
 // 更新软件
 soft,update
 soft,down,leadOS
@@ -21,4 +21,4 @@ sysupd,login,<username>,<password>
 sysupd,get
 sysupd,startre '注:该命令可能在不支持的bios上不受支持.
 
-'''
+```
